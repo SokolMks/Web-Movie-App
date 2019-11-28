@@ -1,0 +1,22 @@
+Most important {
+poster_path:
+overview:
+release_date:
+title:
+}
+
+Important {
+id:
+popularity:
+}
+
+Didnt really use {
+video:
+adult:
+vote_average:
+vote_count:
+backdrop_path:
+original_language:
+genre_ids:
+original_title:
+}
